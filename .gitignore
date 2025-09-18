@@ -1,21 +1,12 @@
 # Executáveis
 *.exe
-*.out
-*.app
 
-# Arquivos de objeto
+# Arquivos de objeto C++
 *.o
 *.obj
 
-# Arquivos temporários do VS Code
+# Configurações do VS Code
 .vscode/
-*.tmp
-*.temp
 
-# Arquivos do sistema
-.DS_Store
+# Arquivos do sistema Windows
 Thumbs.db
-
-# Arquivos de build
-build/
-dist/
